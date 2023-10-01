@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Mitzy909.Mitzy909" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🌸+🌸+Hola+bienvenido!!!+🌸+🌸;+Soy+Mitzy;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🌸+🌸+Hola+bienvenido!!!+🌸+🌸;+Soy+Mitzy :3 ;" />
 
 </h1>
 
@@ -21,7 +21,7 @@
     
  🛠️ Soy ingeniera mecatronica 
  
- 🏫 Estudio en la Faculta de Ingeniería 
+ 🏫 Estudio en la Facultad de Ingeniería 
  
  📚 Me gusta aprender y sé un poco de todo :3 
 
@@ -53,7 +53,7 @@
 
 
 
-<h2 align="center">🦊🦊 Algunas estadisticas 🦊🦊</h2>
+<h2 align="center">🦊🦊 Algunas estadísticas 🦊🦊</h2>
 <br/>
 
  <img src="https://github-readme-stats.vercel.app/api?username=Mitzy909&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Mitzy909&theme=solarized-light&hide_border=true&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D)" /> 
